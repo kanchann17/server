@@ -32,7 +32,7 @@ border-radius.px: 10
 -- profile.wrapper: Kanchan Tikariya
 avatar: $assets.files.images.image-victor.jpg
 city: Nagpur
-github-url: https://github.com/kanchann17/server.git
+github-url: https://github.com/kanchann17/
 linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
 instagram-url: https://www.instagram.com/kanchannnn.__
 twitter-url: https://twitter.com/
@@ -81,7 +81,7 @@ border-radius.px: 10
 -- profile.wrapper: Kanchan Tikariya
 avatar: $assets.files.images.image-victor.jpg
 city: Nagpur
-github-url: https://www.github.com/
+github-url: https://github.com/kanchann17/
 linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
 instagram-url: https://www.instagram.com/kanchannnn.__
 twitter-url: https://twitter.com/
