@@ -29,12 +29,12 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Kanchan Tikariya
 avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+city: Nagpur
+github-url: https://github.com/kanchann17/server.git
+linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
+instagram-url: https://www.instagram.com/kanchannnn.__
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -78,12 +78,12 @@ z-index: 3
 margin-top.rem: -70
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Kanchan Tikariya
 avatar: $assets.files.images.image-victor.jpg
 city: London
 github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
+instagram-url: https://www.instagram.com/kanchannnn.__
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
