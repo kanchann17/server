@@ -30,7 +30,7 @@ margin-top.rem: -72
 border-radius.px: 10
 
 -- profile.wrapper: Kanchan Tikariya
-avatar: $assets.files.images.image-victor.jpg
+avatar: $assets.files.images.Snapchat-435522197.jpg
 city: Nagpur
 github-url: https://github.com/kanchann17/
 linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
@@ -79,7 +79,7 @@ margin-top.rem: -70
 border-radius.px: 10
 
 -- profile.wrapper: Kanchan Tikariya
-avatar: $assets.files.images.image-victor.jpg
+avatar: $assets.files.images.Snapchat-435522197.jpg
 city: Nagpur
 github-url: https://github.com/kanchann17/
 linkedin-url: https://www.linkedin.com/in/kanchan-tikariya-8702a2223
