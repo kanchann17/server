@@ -29,7 +29,7 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Kanchan Tikariya
+-- profile.wrapper: Kanchan Tikariyaa
 avatar: $assets.files.images.kanchan.jpg
 city: Nagpur
 github-url: https://github.com/kanchann17/
